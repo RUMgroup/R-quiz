@@ -1,2 +1,2 @@
 # R-quiz
-A fun quiz to test your R trivia knowledge. For answers, email RUM@Listserv.manchester.ac.uk. 
+A fun quiz to test your R trivia knowledge. For answer sheets, email RUM@Listserv.manchester.ac.uk. 
